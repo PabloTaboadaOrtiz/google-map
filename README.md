@@ -16,8 +16,9 @@ Also need to introduce YOUR GOOGLE API KEY in where 'YOUR API KEY GOES HERE' is 
 
 
 ### Prueba
-
+```js
 class RegisterUser{
+
     constructor() {
         this.service = [stream , download, premium];  //mas encapsulado
         this.amount = 0;
@@ -27,3 +28,4 @@ class RegisterUser{
         this.service.find(service => this.ammount +- service[price])
     }
 }
+```
