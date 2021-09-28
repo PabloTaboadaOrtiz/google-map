@@ -13,3 +13,17 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 Also need to introduce YOUR GOOGLE API KEY in where 'YOUR API KEY GOES HERE' is being showed in Map.js
+
+
+### Prueba
+
+class RegisterUser{
+    constructor() {
+        this.service = [stream , download, premium];  //mas encapsulado
+        this.amount = 0;
+    }
+
+    getTotal() {
+        this.service.find(service => this.ammount +- service[price])
+    }
+}
